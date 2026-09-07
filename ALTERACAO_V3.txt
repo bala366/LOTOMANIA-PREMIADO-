@@ -1,0 +1,9 @@
+LOTOMANIA CICLO E AUSENTES V3
+
+CORREÇÃO PRINCIPAL:
+- dezenas ausentes agora fazem parte do motor, não ficam em último lugar no desempate.
+- o motor tenta inserir TODAS as ausentes informadas.
+- se todas não couberem com 10 exatos nas duas pontas, mantém o maior número possível.
+- usa o mesmo tipo de score do código PyDroid: pesos de pontuação + bônus 13/14/15/16 + penalidade <=10 + bônus por ausentes, metade e todas.
+- ausentes que pertencem ao concurso inicial/final também são priorizadas na própria montagem das âncoras.
+- barra de progresso e PDF do mesmo jogo mantidos.

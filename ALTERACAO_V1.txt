@@ -1,0 +1,8 @@
+V1 - motor do ciclo da Lotomania
+1) 10 acertos exatos no primeiro concurso.
+2) 10 acertos exatos no último concurso.
+3) Meta principal do miolo: todos os concursos acima de 10 acertos.
+4) Se não for possível atingir 11+ em todo o miolo, devolve o melhor encontrado e mostra quantos concursos ficaram em 10 ou menos.
+5) Otimiza premiações internas, priorizando 13, 14, 15, 16+.
+6) Dezenas ausentes entram por troca somente quando não pioram os critérios anteriores; tenta metade e, se possível, todas.
+7) PDF usa exatamente o mesmo jogo de 50 gerado pelo motor.

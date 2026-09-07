@@ -1,0 +1,7 @@
+V4 - Motor rígido portado do PyDroid
+
+Estrutura: 10 / 16 / (miolo >=10) / 20 / 10.
+Ausentes: tenta todas; se não der, maximiza.
+Busca: 100 reinícios x 18.000 passos, seed 29632972, saída antecipada após 20 reinícios quando todas as ausentes já estão em solução válida.
+Barra de progresso e ETA em tempo real.
+PDF usa exatamente o jogo da tela.

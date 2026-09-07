@@ -1,0 +1,16 @@
+plugins { id 'com.android.application' }
+android {
+    namespace 'com.lotomania.ciclo'
+    compileSdk 35
+    defaultConfig {
+        applicationId 'com.lotomania.ciclo'
+        minSdk 24
+        targetSdk 35
+        versionCode 6
+        versionName '6.0-calibrado'
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}

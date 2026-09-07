@@ -1,0 +1,9 @@
+V5
+- Mantém visual/estrutura do aplicativo anterior.
+- Motor rígido 10 / 16 / 20 / 10.
+- Miolo restante com mínimo 10.
+- Ausentes prioritárias.
+- NOVO: mínimo obrigatório de 3 dezenas por linha 00-09 ... 90-99.
+- Barra de progresso e ETA mantidos.
+- PDF do mesmo jogo, sem nova geração.
+- Workflow reforçado para validar todos os arquivos essenciais antes de compilar.

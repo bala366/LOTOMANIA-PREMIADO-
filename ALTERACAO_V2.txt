@@ -1,0 +1,13 @@
+LOTOMANIA CICLO E AUSENTES V2
+
+CORREÇÕES DESTA VERSÃO
+- Motor de busca refeito para não executar dezenas de milhões de trocas.
+- Barra de progresso de 0 a 100%.
+- Texto de atividade mostrando a fase atual: jogos-base, trocas, ausentes e conclusão.
+- 10 acertos EXATOS no concurso inicial.
+- 10 acertos EXATOS no concurso final.
+- Prioridade máxima no miolo: todos acima de 10.
+- Depois, busca pelo menos uma faixa 15+ e engrossa 13/14/15/16+.
+- Dezenas ausentes entram por troca somente se não piorarem as prioridades anteriores.
+- PDF usa exatamente o mesmo jogo final exibido na tela.
+- Busca com semente estável para repetir o mesmo resultado no próprio aplicativo com a mesma entrada.

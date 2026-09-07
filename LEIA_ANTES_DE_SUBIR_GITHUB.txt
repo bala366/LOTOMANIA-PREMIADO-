@@ -1,0 +1,15 @@
+SUBA O PROJETO COMPLETO.
+
+Na raiz do repositório GitHub precisam aparecer:
+- .github/
+- app/
+- build.gradle
+- settings.gradle
+- gradle.properties
+- README.md
+
+O erro da foto aconteceu porque o workflow estava no GitHub, mas os arquivos
+do projeto Android não estavam na raiz do repositório.
+
+REGRA NOVA V5:
+mínimo de 3 dezenas em cada linha de 10 números.
